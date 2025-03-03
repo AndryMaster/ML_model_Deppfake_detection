@@ -24,7 +24,11 @@
 
 - `deep_fake.ipynb` - Jupyter Notebook с кодом проекта
 - `deep_fake.html` - html версия для чтения проекта
+- `conda.yaml` - зависимости проекта (Anaconda)
 - `models/` - директория с обученными моделями
+- `example/` - рабочая папка для изображений в рабочем режиме
+- `img/` - графики и примеры
+
 
 ## Датасет
 Датасет содержит 190К 256x256 изображений лиц,
@@ -55,9 +59,9 @@
 
 Другие ссылки где посмотреть исходники
 
-| Source     | Link                                                        |
-|------------|-------------------------------------------------------------|
-| GitHub     | [https://github.com/AndryMaster/ML_model_Deppfake_detection][git] |
+| Source | Link                                                              |
+|--------|-------------------------------------------------------------------|
+| GitHub | [https://github.com/AndryMaster/ML_model_Deppfake_detection][git] |
 
 ## License
 MIT
