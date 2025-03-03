@@ -1,0 +1,206 @@
+{
+    "0.8-SqNxt-17.pth": {
+        "Loss": 0.3575,
+        "Accuracy": 85.185,
+        "F1-score": 0.86494,
+        "AUC-score": 0.9479,
+        "Val loss": 0.155,
+        "Val accuracy": 94.271,
+        "Val F1-score": 0.94279,
+        "Val AUC-score": 0.98661,
+        "Structure (bs=128)": {
+            "Params": 348022,
+            "Mult-adds GFlops": 18.6,
+            "Params (MB)": 0.95,
+            "Forward/backward pass size (MB)": 3351.6,
+            "Estimated Total Size (MB)": 3448.5
+        }
+    },
+    "1.0-SqNxt-15.pth": {
+        "Loss": 0.43043,
+        "Accuracy": 84.928,
+        "F1-score": 0.86202,
+        "AUC-score": 0.95032,
+        "Val loss": 0.14233,
+        "Val accuracy": 95.354,
+        "Val F1-score": 0.95362,
+        "Val AUC-score": 0.98989,
+        "Structure (bs=128)": {
+            "Params": 276433,
+            "Mult-adds GFlops": 25.7,
+            "Params (MB)": 0.91,
+            "Forward/backward pass size (MB)": 3824.6,
+            "Estimated Total Size (MB)": 3921.5
+        }
+    },
+    "1.0-SqNxt-17.pth": {
+        "Loss": 0.52064,
+        "Accuracy": 85.505,
+        "F1-score": 0.86738,
+        "AUC-score": 0.95521,
+        "Val loss": 0.09656,
+        "Val accuracy": 96.606,
+        "Val F1-score": 0.96616,
+        "Val AUC-score": 0.9949,
+        "Structure (bs=128)": {
+            "Params": 288481,
+            "Mult-adds GFlops": 27.9,
+            "Params (MB)": 0.95,
+            "Forward/backward pass size (MB)": 4341.7,
+            "Estimated Total Size (MB)": 4438.7
+        }
+    },
+    "1.2-SqNxt-20.pth": {
+        "Loss": 0.46883,
+        "Accuracy": 86.393,
+        "F1-score": 0.87689,
+        "AUC-score": 0.95977,
+        "Val loss": 0.12763,
+        "Val accuracy": 96.107,
+        "Val F1-score": 0.96116,
+        "Val AUC-score": 0.9923,
+        "Structure (bs=128)": {
+            "Params": 474593,
+            "Mult-adds GFlops": 41.9,
+            "Params (MB)": 1.6,
+            "Forward/backward pass size (MB)": 5864.3,
+            "Estimated Total Size (MB)": 5961.9
+        }
+    },
+    "1.4-SqNxt-18.pth": {
+        "Loss": 0.51017,
+        "Accuracy": 84.525,
+        "F1-score": 0.85708,
+        "AUC-score": 0.95227,
+        "Val loss": 0.11148,
+        "Val accuracy": 96.051,
+        "Val F1-score": 0.96061,
+        "Val AUC-score": 0.99358,
+        "Structure (bs=128)": {
+            "Params": 1536162,
+            "Mult-adds GFlops": 50.7,
+            "Params (MB)": 4.72,
+            "Forward/backward pass size (MB)": 5192.1,
+            "Estimated Total Size (MB)": 5292.8
+        }
+    },
+    "2.6-SqNxt-20.pth": {
+        "Loss": 0.58686,
+        "Accuracy": 87.776,
+        "F1-score": 0.89114,
+        "AUC-score": 0.94616,
+        "Val loss": 0.09308,
+        "Val accuracy": 96.825,
+        "Val F1-score": 0.96834,
+        "Val AUC-score": 0.99555,
+        "Structure (bs=128)": {
+            "Params": 5546447,
+            "Mult-adds GFlops": 170.7,
+            "Params (MB)": 17.23,
+            "Forward/backward pass size (MB)": 10806.3,
+            "Estimated Total Size (MB)": 10919.5
+        }
+    },
+    "ResNet-18.pth": {
+        "Loss": 0.29705,
+        "Accuracy": 90.312,
+        "F1-score": 0.91712,
+        "AUC-score": 0.98142,
+        "Val loss": 0.08534,
+        "Val accuracy": 97.324,
+        "Val F1-score": 0.97334,
+        "Val AUC-score": 0.99639,
+        "Structure (bs=128)": {
+            "Params": 11690025,
+            "Mult-adds GFlops": 282.4,
+            "Params (MB)": 42.64,
+            "Forward/backward pass size (MB)": 3168.0,
+            "Estimated Total Size (MB)": 3306.6
+        }
+    },
+    "ResNet-18pre.pth": {
+        "Loss": 0.29383,
+        "Accuracy": 88.939,
+        "F1-score": 0.90325,
+        "AUC-score": 0.96315,
+        "Val loss": 0.08218,
+        "Val accuracy": 96.924,
+        "Val F1-score": 0.96931,
+        "Val AUC-score": 0.99742,
+        "Structure (bs=128)": {
+            "Params": 11690025,
+            "Mult-adds GFlops": 282.4,
+            "Params (MB)": 42.64,
+            "Forward/backward pass size (MB)": 3168.0,
+            "Estimated Total Size (MB)": 3306.6
+        }
+    },
+    "ResNet-34pre_nogit.pth": {
+        "Loss": 0.46238,
+        "Accuracy": 87.199,
+        "F1-score": 0.8846,
+        "AUC-score": 0.97266,
+        "Val loss": 0.05314,
+        "Val accuracy": 98.214,
+        "Val F1-score": 0.98224,
+        "Val AUC-score": 0.99826,
+        "Structure (bs=128)": {
+            "Params": 21798185,
+            "Mult-adds GFlops": 570.4,
+            "Params (MB)": 81.2,
+            "Forward/backward pass size (MB)": 4768.0,
+            "Estimated Total Size (MB)": 4945.2
+        }
+    },
+    "ResNet-50_nogit.pth": {
+        "Loss": 0.29958,
+        "Accuracy": 89.9,
+        "F1-score": 0.91287,
+        "AUC-score": 0.97842,
+        "Val loss": 0.07499,
+        "Val accuracy": 97.522,
+        "Val F1-score": 0.97532,
+        "Val AUC-score": 0.99676,
+        "Structure (bs=128)": {
+            "Params": 25559081,
+            "Mult-adds GFlops": 636.4,
+            "Params (MB)": 89.68,
+            "Forward/backward pass size (MB)": 14176.0,
+            "Estimated Total Size (MB)": 14361.7
+        }
+    },
+    "ResNet-50pre_nogit.pth": {
+        "Loss": 0.51507,
+        "Accuracy": 87.135,
+        "F1-score": 0.88422,
+        "AUC-score": 0.95932,
+        "Val loss": 0.05762,
+        "Val accuracy": 97.844,
+        "Val F1-score": 0.97854,
+        "Val AUC-score": 0.99793,
+        "Structure (bs=128)": {
+            "Params": 25559081,
+            "Mult-adds GFlops": 636.4,
+            "Params (MB)": 89.68,
+            "Forward/backward pass size (MB)": 14176.0,
+            "Estimated Total Size (MB)": 14361.7
+        }
+    },
+    "ViT-4-12-512-1024_nogit.pth": {
+        "Loss": 0.55986,
+        "Accuracy": 69.527,
+        "F1-score": 0.70619,
+        "AUC-score": 0.7824,
+        "Val loss": 0.52846,
+        "Val accuracy": 73.22,
+        "Val F1-score": 0.73206,
+        "Val AUC-score": 0.81186,
+        "Structure (bs=128)": {
+            "Params": 12082177,
+            "Mult-adds GFlops": 1.4,
+            "Params (MB)": 46.09,
+            "Forward/backward pass size (MB)": 1072.0,
+            "Estimated Total Size (MB)": 1214.1
+        }
+    }
+}
